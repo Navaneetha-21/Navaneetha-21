@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋.
+
+Hello, my name is Navaneeth Kotari.
+I’m currently a third-year engineering student specializing in Information Science and Engineering at Don Bosco Institute Of Technology Bangalore. I’ve been working on building my skills Python Progamming Language ,Machine Learning,Deep Learning, HTML ,CSS ,Javascript.
+
 
 <!--
 **Navaneetha-21/Navaneetha-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
