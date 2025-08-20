@@ -1,7 +1,7 @@
 ## Hi there 👋.
 
 Hello, my name is Navaneeth Kotari.
-I’m currently a Fourth-year engineering student specializing in Information Science and Engineering at Don Bosco Institute Of Technology Bangalore. I’ve been working on building my skills Python Progamming Language ,Machine Learning,Deep Learning, HTML ,CSS.
+I’m currently a final-year engineering student specializing in Information Science and Engineering at Don Bosco Institute Of Technology Bangalore. I’ve been working on building my skills Python Progamming Language ,Machine Learning,Deep Learning, HTML ,CSS.
 
 
 <!--
