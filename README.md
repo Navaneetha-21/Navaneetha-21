@@ -1,20 +1,87 @@
-## Hi there 👋.
+# Hi 👋, I'm Navaneetha
 
-Hello, my name is Navaneetha.
-I’m currently a final-year engineering student specializing in Information Science and Engineering at Don Bosco Institute Of Technology Bangalore. I’ve been working on building my skills Python Progamming Language , HTML ,CSS,SQL.
+### Python Developer | Data Analyst | Machine Learning Enthusiast
 
+I’m a Python developer with hands-on experience in **Django, REST APIs, Data Analysis, Machine Learning, SQL, and Full Stack Web Development**.
 
-<!--
-**Navaneetha-21/Navaneetha-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building practical applications, solving programming problems, working with data, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .. .
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🐍 Python Developer
+- 🌐 Building web applications using Django & REST APIs
+- 📊 Interested in Data Analysis and Data Science
+- 🤖 Exploring Machine Learning and AI
+- 🗄️ Working with SQL, MySQL, PostgreSQL and MongoDB
+- 🔧 Comfortable with Git and GitHub
+- 🚀 Continuously improving my DSA and software development skills
+- 💼 Open to opportunities in Python Development, Data Analytics and Machine Learning
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,django,react,nodejs,mysql,postgresql,mongodb,git,github,docker,aws" />
+
+</p>
+
+### Data & Machine Learning
+
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+
+`Machine Learning` `Data Analysis` `Feature Engineering` `SMOTE` `PCA`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Navaneetha-21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneetha-21&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Navaneetha-21&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneetha-21&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Python
+   ↓
+DSA
+   ↓
+Django + REST API
+   ↓
+SQL & Database Management
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Full Stack Development
