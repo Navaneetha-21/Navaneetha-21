@@ -1,5 +1,10 @@
 # Hi 👋, I'm Navaneetha
 
+<p align="center">
+  <img src="https://github.com/Navaneetha-21.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
+
 ### 🐍 Python Developer | 📊 Data Analyst | 🤖 Machine Learning Enthusiast
 
 <p align="center">
