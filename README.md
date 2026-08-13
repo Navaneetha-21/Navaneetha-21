@@ -84,6 +84,7 @@
   <img src="./profile/top-langs.svg" height="180" />
 </p>
 
+---
 
 ## 🔥 GitHub Contribution Streak
 
@@ -91,7 +92,7 @@
   <img src="https://streak-stats.demolab.com/?user=Navaneetha-21&theme=tokyonight&hide_border=true" />
 </p>
 
-
+---
 
 ## 📈 GitHub Contribution Activity
 
@@ -196,7 +197,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/navaneetha-77712a308/">
-<img src="https://img.shields.io/badge/LinkedIn-Navaneetha%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Navaneetha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/jhjknnypms/">
@@ -206,7 +207,6 @@
 </p>
 
 ---
-
 
 <p align="center">
 
