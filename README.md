@@ -83,7 +83,7 @@
   <img src="./profile/stats.svg" height="180" />
   <img src="./profile/top-langs.svg" height="180" />
 </p>
----
+
 
 ## 🔥 GitHub Contribution Streak
 
@@ -91,15 +91,7 @@
   <img src="https://streak-stats.demolab.com/?user=Navaneetha-21&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navaneetha-21&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</p>
-
----
 
 ## 📈 GitHub Contribution Activity
 
