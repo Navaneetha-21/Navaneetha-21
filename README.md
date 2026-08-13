@@ -25,7 +25,7 @@ I enjoy building practical applications, solving programming problems, working w
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,django,react,nodejs,mysql,postgresql,mongodb,git,github,docker,aws" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,react,mysql,postgresql,git,github,aws" />
 
 </p>
 
