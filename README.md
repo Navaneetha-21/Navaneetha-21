@@ -1,4 +1,4 @@
-# Hi 👋, I'm Navaneeth Kotari
+# Hi 👋, I'm Navaneetha
 
 ### 🐍 Python Developer | 📊 Data Analyst | 🤖 Machine Learning Enthusiast
 
